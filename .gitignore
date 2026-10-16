@@ -1,0 +1,26 @@
+# Keil / MDK 编译产物
+*.o
+*.crf
+*.d
+*.axf
+*.hex
+*.map
+*.lst
+*.htm
+*.dep
+*.lnp
+*.scvd
+*.uvguix.*
+*.bak
+
+# 中间产物与预览文件
+_preview.html
+output/_preview*.png
+output/_stage/
+待整理截图/
+__pycache__/
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
